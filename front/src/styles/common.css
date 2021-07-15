@@ -1,0 +1,78 @@
+#app {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+    background: url("../media/background1.jpg") no-repeat center center;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.board-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+.game-info {
+    display: flex;
+    justify-content: center;
+    width: 250px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-family: "Courier New";
+    opacity: 0.9;
+    font-weight: bold;
+    background: rgba(67, 40, 18, 0.3);
+    color: #e9decd;
+}
+
+.game-info-alarm {
+    display: flex;
+    justify-content: center;
+    width: 250px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-family: "Courier New";
+    font-weight: bold;
+    background: rgba(78, 36, 0, 0.3);
+    color: #e9decd;
+}
+
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.home button {
+    width: 500px;
+    margin-top: 10px;
+    font-size: 30px;
+    font-family: "Courier New";
+    font-weight: bold;
+    background: rgba(60, 36, 18, 0.4);
+    color: #e9decd;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    width: 250px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    font-family: "Courier New";
+    opacity: 0.9;
+    font-weight: bold;
+    background: rgba(67, 40, 18, 0.3);
+    color: #080f1d;
+    margin-top: 0;
+}

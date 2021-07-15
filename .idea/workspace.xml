@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f346c6d6-7f4d-4d44-8a6c-25ffc1b237eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l2uXVJ4ZFriSQJCdvSQYG4Ncen" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="ts.external.directory.path" value="D:\programs\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration name="app.js" type="NodeJSConfigurationType" path-to-node="node" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/back">
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/front/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.app.js" />
+      <item itemvalue="npm.serve" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f346c6d6-7f4d-4d44-8a6c-25ffc1b237eb" name="Default Changelist" comment="" />
+      <created>1606807549044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606807549044</updated>
+      <workItem from="1606807551494" duration="13327000" />
+      <workItem from="1607508218558" duration="677000" />
+      <workItem from="1607591039669" duration="1787000" />
+      <workItem from="1607592868427" duration="731000" />
+      <workItem from="1607613355509" duration="1660000" />
+      <workItem from="1607615727617" duration="3320000" />
+      <workItem from="1607619294940" duration="1565000" />
+      <workItem from="1607622022677" duration="1367000" />
+      <workItem from="1607841754267" duration="5681000" />
+      <workItem from="1607872962983" duration="14089000" />
+      <workItem from="1607923814350" duration="48920000" />
+      <workItem from="1608189646812" duration="12003000" />
+      <workItem from="1608530867030" duration="3427000" />
+      <workItem from="1610008836052" duration="803000" />
+      <workItem from="1613390514309" duration="1755000" />
+      <workItem from="1613392291826" duration="1808000" />
+      <workItem from="1613394119380" duration="731000" />
+      <workItem from="1613445430510" duration="1779000" />
+      <workItem from="1613447253089" duration="1095000" />
+      <workItem from="1614861963980" duration="1487000" />
+      <workItem from="1621011142251" duration="766000" />
+      <workItem from="1621043933612" duration="1632000" />
+      <workItem from="1625804973246" duration="12551000" />
+      <workItem from="1625928314658" duration="4391000" />
+      <workItem from="1625987636711" duration="2056000" />
+      <workItem from="1626356149098" duration="1165000" />
+      <workItem from="1626357517970" duration="156000" />
+      <workItem from="1626357959177" duration="280000" />
+      <workItem from="1626358516000" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

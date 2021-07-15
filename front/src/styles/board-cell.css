@@ -1,0 +1,19 @@
+.board-cell {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    box-sizing: border-box;
+    border: 4px solid rgba(0, 0, 0, .3);
+    justify-content: center;
+    align-items: center;
+    font-size: 11px;
+}
+.isBlack{
+    background: rgba(33, 22, 15, .7);
+}
+.isWhite{
+    background: rgba(117, 100, 81, 0.5);
+}
+.isChecked{
+    border: 4px solid #e0b595;
+}

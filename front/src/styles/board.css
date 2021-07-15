@@ -1,0 +1,62 @@
+.board {
+    margin-top: 1em;
+    display: flex;
+    flex-direction: row;
+    border: 4px solid rgba(40, 30, 25, .8);
+}
+
+.board-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.board-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.board-abc {
+    display: flex;
+    flex-direction: row;
+    background: rgba(0, 0, 0, .3);
+    color: #080f1d;
+    font-family: "Courier New";
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.board-abc-cell {
+    display: flex;
+    flex-direction: row;
+    width: 60px;
+    height: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.board-123 {
+    display: flex;
+    flex-direction: column;
+    width: 20px;
+    background: rgba(0, 0, 0, .3);
+    color: #080f1d;
+    font-family: "Courier New";
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.board-123-angle {
+    height: 20px;
+}
+
+.board-123-cell {
+    display: flex;
+    flex-direction: row;
+    height: 60px;
+    align-items: center;
+    justify-content: center;
+}
+
+.board-reverse {
+    flex-direction: column-reverse;
+}
